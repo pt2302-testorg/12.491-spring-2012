@@ -2,6 +2,7 @@
 content_type: resource
 description: Example student presentation on equilibrium and dynamic evaporation experiments.
 file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/d127ac02613b9a46ac189bbae4de171f_MIT12_491S12_EquilibDynami.pdf
+file_size: 346184
 file_type: application/pdf
 learning_resource_types:
 - Projects

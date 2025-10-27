@@ -3,6 +3,7 @@ content_type: resource
 description: Example student presentation on equilibrium iron isotope fractionation
   factors of minerals.
 file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/b4fbbc979c0e591290de8663ddebe9c9_MIT12_491S12_EquilibriIron.pdf
+file_size: 187862
 file_type: application/pdf
 learning_resource_types:
 - Projects

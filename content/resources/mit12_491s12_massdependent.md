@@ -3,6 +3,7 @@ content_type: resource
 description: Example student presentation on mass-dependent and -independent fractionation
   of Hg isotopes by photoreduction in aquatic systems.
 file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-2012/6383a71608a71dd98fcb1d1612cc4e4d_MIT12_491S12_MassDependent.pdf
+file_size: 197318
 file_type: application/pdf
 learning_resource_types:
 - Projects
